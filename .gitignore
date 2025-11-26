@@ -1,0 +1,13 @@
+# Python environments
+.venv/
+stock_env/
+venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ignore DLL files
+*.dll
